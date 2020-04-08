@@ -16,8 +16,8 @@ Php,sql,network.
 
 TimeLine Plane:
 •	Design Interface 23/3/2020 to 30/3/2020.
-•	Create database 31/3/2020 to 15/4/2020 .
-•	coding  16/4/2020  to  26/4/2020
+•	Create database 16/4/2020  to  26/4/2020
+•	coding  31/3/2020 to 15/4/2020 .
 •	Testing 27/4/2020 to 29/4/2020 .
 
 Tools:
